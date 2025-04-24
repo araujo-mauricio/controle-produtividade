@@ -1,2 +1,0 @@
-# agricultura-digital
-Trabalho FIAP
